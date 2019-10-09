@@ -5,7 +5,7 @@ Data de inicio: 28/09/2019
 */
 
 #include <iostream>
-#include <locale.h>
+#include <locale.h> 
 
 int main(){
 	setlocale(LC_ALL, "");
